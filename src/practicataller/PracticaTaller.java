@@ -16,6 +16,7 @@ public class PracticaTaller {
      */
     public static void main(String[] args) {
         Coche c = new Coche();
+	System.out.println("Estoy dentro");
     }
     
 }
